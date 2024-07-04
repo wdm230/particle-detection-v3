@@ -17,7 +17,7 @@ particle-detection/
 │   │   ├── images/       # Directory containing images
 │   │   └── Annotations/  # Directory containing Pascal VOC XML annotations
 │   └── saved_model/
-│       └── best_particle_detector.pth  # Directory to save the best model
+│       └── particle_detector.pth  # Directory to save the best model
 └── README.md          # Project documentation
 ```
 
