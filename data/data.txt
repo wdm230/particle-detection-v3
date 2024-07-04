@@ -1,0 +1,4 @@
+data folder directory:
+
+data/img/images
+data/img/Annotations
