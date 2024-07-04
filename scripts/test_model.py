@@ -66,7 +66,7 @@ model.load_state_dict(torch.load('data/saved_model/particle_detector.pth', map_l
 model.to(device)
 
 # Get list of image files
-imgs = glob.glob("data/img/images/*.png")
+imgs = glob.glob("data/*.png")
 
 # Perform inference and visualize results for each image
 for file in imgs:

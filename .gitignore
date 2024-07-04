@@ -164,3 +164,4 @@ cython_debug/
 data/img
 data/plots
 data/saved_model
+data/training_history/*.json
